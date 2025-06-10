@@ -1,0 +1,13 @@
+{
+  "name": "mia-baileys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^6.7.1",
+    "pino": "^8.0.0"
+  }
+}
